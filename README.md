@@ -38,6 +38,9 @@ Python, HuggingFace, ETL
 📈 Experience Highlights
 
 22% cost reduction through procurement and logistics data analysis at Richie Rich
+
 20% revenue uplift through price sensitivity and market trend analysis
+
 50% reporting time reduction through automated Excel workflows at ABR Shringar LLP
+
 3 years in the UK - international work experience across fast-paced environments
