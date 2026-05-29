@@ -7,12 +7,16 @@ Based in Mumbai, India · Open to Data Analyst roles
 🧰 What I Work With
 
 Analysis & Modelling : Python SQL Excel Statistical Modelling Demand Forecasting A/B Testing
+
 Visualisation : Power BI Tableau Plotly Dash
+
 Libraries : pandas NumPy scikit-learn HuggingFace Transformers
+
 Tools : Jupyter Notebook VS Code Git & GitHub Google Colab
 
 
 📌 Featured Projects
+
 Project Description:
 
 User Journey Funnel Analysis
